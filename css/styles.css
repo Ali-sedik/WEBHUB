@@ -1,0 +1,136 @@
+<style>
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+hr {
+  border-style: none;
+border-top-style: dotted;
+border-color: lightgrey;
+border-width: 7px;
+width: 5%;
+margin: 100px auto;
+}
+
+h1 {
+  font-family: 'Rubik', sans-serif;
+  margin: 50px auto 30px auto;
+  font-size: 412.5%;
+  color: #EE8572;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  color: #EE8572;
+  padding-bottom: 30px;
+  text-align: center;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+a:hover {
+  color: #EAF6F6;
+}
+p {
+  line-height: 2;
+}
+.Top-container {
+  background-color: #32E0C4;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.image1 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+.image2 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+.mainimage {
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  margin-bottom: 25px;
+
+}
+.middle-container {
+  margin: 100px 0;
+}
+.bottom-container {
+  background-color: #32E0C4;
+  padding: 50px 0 20px;
+}
+.firstp {
+  font-weight:normal;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+}
+.CONTACT {
+  width: 30%;
+  margin: 40px auto 60px auto;
+}
+.myButton {
+	background-color:#05DFD7;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #B2EBF2;
+	display:inline-block;
+	cursor:pointer;
+	color:white;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #6EBFB5;
+}
+.myButton:hover {
+	background-color:#1DD3BD;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.last-sentence {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+</style>
